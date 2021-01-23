@@ -7,7 +7,7 @@ import Message from "Components/Message";
 import Poster from "Components/Poster";
 import Helmet from "react-helmet";
 const Container = styled.div`
-  padding: 0px 20px;
+  padding: 20px;
 `;
 
 const TVPresenter = ({ topRated, popular, airingToday, loading, error }) =>
