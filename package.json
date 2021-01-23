@@ -30,7 +30,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://hyeonseung-lee.github.io/react-movie_app_2nd",
+  "homepage": "https://tender-gates-6311a9.netlify.app/",
   "browserslist": {
     "production": [
       ">0.2%",
